@@ -3,6 +3,7 @@
 [![Test Coverage][coverage-status-svg]][coverage-status-link]
 [![Npm Version][npm-svg]][npm-link]
 [![License][license-svg]][license-link]
+[![Angular Version][ng]][ng-link]
 
 A library that gives you access to the powerful Parse cloud platform from your JavaScript app. For more information on Parse and its features, see [the website](https://parse.com) or [the JavaScript guide](https://parseplatform.github.io/docs/js/guide/).
 
